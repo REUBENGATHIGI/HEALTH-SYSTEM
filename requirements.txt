@@ -1,0 +1,8 @@
+# requirements.txt
+flask==3.0.2
+flask-sqlalchemy==2.0.28
+python-dateutil==2.8.2
+pytest==8.0.0
+coverage==7.5.0  # Updated to resolve pytest-cov conflict
+sqlalchemy==2.0.25
+pytest-cov==4.1.0  # Added compatible version
